@@ -61,6 +61,7 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Link, name: url, widget: string}
       - label: "Config File"
         name: "config"
-        file: "_config.yml"
+        file: "_config.yml"        
+        widget: "list"
         fields:
           - {label: Title, name: title, widget: string}
