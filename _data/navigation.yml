@@ -1,5 +1,3 @@
-# specify main menu items here
-# _data/navigation.yml
 items:
   - text: Home
     url: /
@@ -9,3 +7,5 @@ items:
     url: /contact
   - text: Blog
     url: /blog
+  - text: test
+    url: /text
